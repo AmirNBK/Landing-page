@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+body{
+    background-color: #393e46;
+}
+.Sign-Up {
+    margin-right: 40px;
+    margin-top: 8px;
+    font-family: "Noto Sans JP";
+    font-size: 25px;
+    line-height: 1.32;
+    letter-spacing: 0.13px;
+    color: #eff8ff;
+    display: inline-block;
+    float: right;
+    cursor: pointer;
+    padding: 4px 12px 5px;
+    transition-duration: 0.3s;
+}
+.Sign-Up:hover{
+    background: #f9f3f3;
+    border-radius: 4px;
+    padding: 4px 12px 5px;
+    color: #707070;
+}
+.Login {
+    font-family: "Noto Sans JP";
+    font-size: 27px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.32;
+    letter-spacing: 0.13px;
+    color: #eff8ff;
+    display: inline-block;
+    float: right;
+    margin-top: 6px;
+    margin-right: 8px;
+    cursor: pointer;
+    padding: 4px 12px 5px;
+    transition-duration: 0.3s;
+}
+.Login:hover{
+    background: #f9f3f3;
+    border-radius: 4px;
+    padding: 4px 12px 5px;
+    color:#707070;
+}
+.Photographers {
+    left: 480px;
+}
+.Contact-us {
+    left: 322px;
+}
+.About-us {
+    left: 180px;
+}
+.Photographers, .Contact-us, .About-us{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 10px;
+    font-size: 28px;
+    font-family: Corbel;
+    display: inline-block;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 0.18px;
+    color: #eff8ff;
+}
+.Camera{
+    height: 55px;
+    display: inline-block;
+    position: absolute;
+    left: 95px;
+}
+.Cameraman {
+    height: 950px;
+    margin-top: -205px;
+    margin-left: 108px;
+}
+.Path-1 {
+    width: 673.3px;
+    border: 3.2px solid  #eff8ff;
+    border-radius: 4px;
+    float: right;
+    margin-top: -607px;
+    margin-right: 100px;
+}
+.main-text {
+    float: right;
+    width: 722px;
+    -webkit-backdrop-filter: blur(30px);
+    backdrop-filter: blur(30px);
+    font-family: Bahnschrift;
+    font-size: 55px;
+    font-weight: 600;
+    font-stretch: semi-condensed;
+    line-height: 1.4;
+    letter-spacing: 5.2px;
+    color: #eff8ff;
+    margin-top: -580px;
+    margin-right: 59px;
+}
+.Path-2 {
+    width: 673.3px;
+    border: 3.2px solid  #eff8ff;
+    border-radius: 4px;
+    float: right;
+    margin-top: -330px;
+    margin-right: 100px;
+}
+.ad-text {
+    margin-right: 145px;
+    margin-top: -280px;
+    float: right;
+    width: 630px;
+    font-family: manOldStyle;
+    font-size: 25px;
+    line-height: 1.16;
+    letter-spacing: 0.13px;
+    color: #eff8ff;
+}
+.Rectangle-2 {
+    font-family: "Noto Sans JP";
+    font-size: 26px;
+    font-weight: bold;
+    color: #393e46;
+    line-height: 1.14;
+    letter-spacing: 0.14px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    width: 253px;
+    height: 80px;
+    float: right;
+    margin-right: 520px;
+    margin-top: -135px;
+    background-color: #eff8ff;
+    cursor: pointer;
+    border-style: none;
+}
+.Rectangle-2:hover{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.82);
+}
+.video {
+    height: 39.8px;
+    float: right;
+    margin-right: 450px;
+    margin-top:-113px;
+}
+.Watch-video {
+    float: right;
+    font-family: "Noto Sans JP";
+    font-size: 28px;
+    line-height: 1.14;
+    letter-spacing: 0.14px;
+    color: #eff8ff;
+    margin-right:286px;
+    margin-top: -111px;
+    cursor: pointer;
+}
